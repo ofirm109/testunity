@@ -5,6 +5,7 @@
 "dataUrl": "build web.data.unityweb",
 "wasmCodeUrl": "build web.wasm",
 "wasmFrameworkUrl": "build web.wasm.framework.unityweb",
+"wasmSymbolsUrl": "build web.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
